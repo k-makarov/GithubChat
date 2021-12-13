@@ -4,3 +4,4 @@
 /src/app/node_modules/**/**
 .idea/**/**
 .DS_Store
+/src/app/package-lock.json
